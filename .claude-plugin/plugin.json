@@ -1,0 +1,6 @@
+{
+  "name": "atomic-design",
+  "version": "0.1.0",
+  "description": "Plan UI as atoms, molecules, organisms, templates and pages; reuse existing components; audit every UI edit for web and app frameworks.",
+  "keywords": ["atomic-design", "design-system", "components", "reuse", "audit", "react", "vue", "flutter", "compose", "swiftui"]
+}
